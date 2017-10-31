@@ -67,6 +67,7 @@ output:
 $
 $ hello world
 ```
+---
 
 **clt** - console.log with title<br />
 **cli** - console.log with 2 space indent
@@ -87,6 +88,8 @@ output:
 $ An Object
 $   { name: 'my object' }
 ```
+
+---
 
 **cld** - console.log with with dashes before label<br />
 **cll** - console.log with label and data. data is indented 2 spaces
