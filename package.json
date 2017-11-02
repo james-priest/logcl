@@ -1,6 +1,6 @@
 {
   "name": "logcl",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A simple node package with a set of wrapper functions to console.log()",
   "main": "index.js",
   "scripts": {
